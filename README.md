@@ -1,4 +1,4 @@
-# Portafolio Profesional - Cristian Romero
+# Portafolio - Cristian Romero
 
 Este es mi portafolio personal donde muestro proyectos destacados en áreas como desarrollo web, soporte TI e infraestructura.
 
